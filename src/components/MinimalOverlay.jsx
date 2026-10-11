@@ -5,7 +5,7 @@ const PRESET_REPOSITORIES = [
   { label: 'mrdoob/three.js', slug: 'mrdoob/three.js' },
   { label: 'facebook/react', slug: 'facebook/react' },
   { label: 'torvalds/linux', slug: 'torvalds/linux' },
-  { label: 'Pranshu125/void-mapper', slug: 'Pranshu125/void-mapper' },
+  { label: 'Pranshu125/VoidMapper', slug: 'Pranshu125/VoidMapper' },
 ];
 
 const RENDER_MODES = [
